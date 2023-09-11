@@ -1,2 +1,2 @@
 # dice-game
-This game can help you to solve conflicts between people.
+ An interactive dice tossing game utilizing fundamental JavaScript techniques, where players compete for victory based on the highest dice value.
